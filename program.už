@@ -1,0 +1,13 @@
+importovať os ako o
+
+premenna = 5
+vs = vstup("Zadajte cislo: ")
+premenna2 = celéčíslo(vs)
+
+ak premenna2 > premenna:
+    vytlačiť("Vaše číslo je viac ako 5")
+alebo premenna2 < premenna:
+    vytlačiť("Vaše číslo je menej ako 5")
+inak:
+    vytlačiť("Vaše číslo je 5")
+o.system("pause")
